@@ -1405,7 +1405,7 @@ Click file then click new
 <img src="https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/143027686/d3281cb9-e79d-4f93-8a18-7bdb24f3fbf2"/>
 </p>
 <p>
-Go to the Link and copy the code this code will create 2000 users https://github.com/Jacobvillagomez1/Generate-Names-Create-Users.ps1/blob/main/README.md
+Go to the Link and copy the code this code will create 2000 users https://github.com/Jevanko94/Generate-Names-Create-Users1/blob/main/README.md
 </p>
 <br />
 
