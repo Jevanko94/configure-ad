@@ -61,7 +61,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-![1](https://github.com/user-attachments/assets/6d3d8fa8-3ca5-44de-b0dd-91398af2d701"
+<img src="https://github.com/user-attachments/assets/6d3d8fa8-3ca5-44de-b0dd-91398af2d701"
 
 </p>
 <p>
@@ -70,7 +70,7 @@ First go to Microsoft Azure and type Resource Group
 <br />
 
 <p>
-![2](https://github.com/user-attachments/assets/86671797-6562-411a-a6b5-3ef15cf841c1"
+<img src="https://github.com/user-attachments/assets/86671797-6562-411a-a6b5-3ef15cf841c1"
 
 </p>
 <p>
@@ -79,7 +79,7 @@ Next click create to create the Resource Group
 <br />
 
 <p>
-![3](https://github.com/user-attachments/assets/2f645a83-b705-439f-8c76-60e4779c3596"
+<img src="https://github.com/user-attachments/assets/2f645a83-b705-439f-8c76-60e4779c3596"
 
 </p>
 <p>
@@ -89,7 +89,7 @@ Now for the name type AD-LAb and the region under US West US 3 then go to the re
 
 
 <p>
-![4](https://github.com/user-attachments/assets/ed0e106f-4eb8-4bd7-95ab-a20477f5cf33"
+<img src="https://github.com/user-attachments/assets/ed0e106f-4eb8-4bd7-95ab-a20477f5cf33"
 
 </p>
 <p>
@@ -99,7 +99,7 @@ Next the validation pass through
 
 
 <p>
-![5](https://github.com/user-attachments/assets/645ce803-2037-430a-b1a2-7ee3aceec748"
+<img src="https://github.com/user-attachments/assets/645ce803-2037-430a-b1a2-7ee3aceec748"
 
 </p>
 <p>
@@ -108,7 +108,7 @@ Now once the process is done you will see the Resource Group was created
 <br />
 
 <p>
-![6](https://github.com/user-attachments/assets/dc3f53b4-e7bd-449b-8132-e17cb832a5c5"
+<img src="https://github.com/user-attachments/assets/dc3f53b4-e7bd-449b-8132-e17cb832a5c5"
 
 </p>
 <p>
@@ -117,7 +117,7 @@ Type Virtual Machine in the search bar
 <br />
 
 <p>
-![7](https://github.com/user-attachments/assets/1c137fb1-2bbc-40cc-a627-2a4c510dd91c"
+<img src="https://github.com/user-attachments/assets/1c137fb1-2bbc-40cc-a627-2a4c510dd91c"
 
 </p>
 <p>
@@ -126,7 +126,7 @@ Next click Azure Virtual Machine to create the VM
 <br />
 
 <p>
-![8](https://github.com/user-attachments/assets/f5aa9736-1070-4a17-ba8b-67f0c1db7a11"
+<img src="https://github.com/user-attachments/assets/f5aa9736-1070-4a17-ba8b-67f0c1db7a11"
 
 </p>
 <p>
@@ -135,7 +135,7 @@ Now for the resource group click AD-LAb, and the virtual machine name type DC-1.
 <br />
 
 <p>
-![9](https://github.com/user-attachments/assets/1d9e5d0e-0664-4632-9c2a-b576a428f88d
+<img src="https://github.com/user-attachments/assets/1d9e5d0e-0664-4632-9c2a-b576a428f88d
 
 </p>
 <p>
@@ -144,7 +144,7 @@ Next the size needs to be under Standard E2 and teh username under labuser and t
 <br />
 
 <p>
-![10](https://github.com/user-attachments/assets/224feca9-3084-47cb-b198-7a4b66ca19d8"
+<img src="https://github.com/user-attachments/assets/224feca9-3084-47cb-b198-7a4b66ca19d8"
 
 </p>
 <p>
@@ -153,7 +153,7 @@ Next click the box in the Licensing section and then click th econfirm box. Then
 <br />
 
 <p>
-![11](https://github.com/user-attachments/assets/e70228be-4db8-42cd-afbb-d804b1c42908"
+<img src="https://github.com/user-attachments/assets/e70228be-4db8-42cd-afbb-d804b1c42908"
 
 </p>
 <p>
@@ -162,7 +162,7 @@ Now go to the networking tab and make sure the virtual network, subnet, and the 
 <br />
 
 <p>
-![12](https://github.com/user-attachments/assets/ffce0f42-378a-4fc3-9da9-f7df46003b37"
+<img src="https://github.com/user-attachments/assets/ffce0f42-378a-4fc3-9da9-f7df46003b37"
 
 </p>
 <p>
@@ -171,7 +171,7 @@ Now go to the review and create section
 <br />
 
 <p>
-![13](https://github.com/user-attachments/assets/b3451c58-138f-4a82-88df-194f048a9a79"
+<img src="https://github.com/user-attachments/assets/b3451c58-138f-4a82-88df-194f048a9a79"
 
 </p>
 <p>
@@ -180,7 +180,7 @@ Next let the deployment progess load
 <br />
 
 <p>
-![14](https://github.com/user-attachments/assets/0bfb3098-09fc-4b7d-ac7f-7a23fe6e110d"
+<img src="https://github.com/user-attachments/assets/0bfb3098-09fc-4b7d-ac7f-7a23fe6e110d"
 
 </p>
 <p>
@@ -189,7 +189,7 @@ Now the process will be complete when there is a green check
 <br />
 
 <p>
-![15](https://github.com/user-attachments/assets/03f382d0-fdf6-49fe-857d-93e653b7e582"
+<img src="https://github.com/user-attachments/assets/03f382d0-fdf6-49fe-857d-93e653b7e582"
 
 </p>
 <p>
@@ -198,7 +198,7 @@ Next type virtual machine and you will see DC-1 VM was created
 <br />
 
 <p>
-![16](https://github.com/user-attachments/assets/845878dd-c00c-4d1a-a70c-b7933c32530f"
+<img src="https://github.com/user-attachments/assets/845878dd-c00c-4d1a-a70c-b7933c32530f"
 
 </p>
 <p>
@@ -207,7 +207,7 @@ Next click create and then go to Azure Virtual Machine
 <br />
 
 <p>
-![17](https://github.com/user-attachments/assets/f46ce10c-8abe-4791-aae5-fac72af1f5ef"
+<img src="https://github.com/user-attachments/assets/f46ce10c-8abe-4791-aae5-fac72af1f5ef"
 
 </p>
 <p>
@@ -216,7 +216,7 @@ Next in the subscriiption section make sure the same subscription that you used 
 <br />
 
 <p>
-![18](https://github.com/user-attachments/assets/854ee9ea-0cc9-41c9-8abc-553cb256bca2"
+<img src="https://github.com/user-attachments/assets/854ee9ea-0cc9-41c9-8abc-553cb256bca2"
 
 </p>
 <p>
@@ -225,7 +225,7 @@ Now for the Image click Windows 10 pro version and the size click Standard E2
 <br />
 
 <p>
-![19](https://github.com/user-attachments/assets/2fa62e05-18a7-4380-896a-3796e2e65fb7"
+<img src="https://github.com/user-attachments/assets/2fa62e05-18a7-4380-896a-3796e2e65fb7"
 
 </p>
 <p>
@@ -234,7 +234,7 @@ Next for the username type labuser and the password the same as DC-1 VM. Then cl
 <br />
 
 <p>
-![20](https://github.com/user-attachments/assets/8191ee53-05e4-4073-8a44-500fa9035fb3"
+<img src="https://github.com/user-attachments/assets/8191ee53-05e4-4073-8a44-500fa9035fb3"
 
 </p>
 <p>
@@ -243,7 +243,7 @@ Now the deployment will be done when a green check appears next to the deploymen
 <br />
 
 <p>
-![21](https://github.com/user-attachments/assets/b1091537-8035-4e84-9acd-dc2a9fa32991"
+<img src="https://github.com/user-attachments/assets/b1091537-8035-4e84-9acd-dc2a9fa32991"
 
 </p>
 <p>
@@ -252,7 +252,7 @@ Next type virtual machines in the search bar
 <br />
 
 <p>
-![22](https://github.com/user-attachments/assets/3c593d78-c6d9-456c-be53-10752902d0f7"
+<img src="https://github.com/user-attachments/assets/3c593d78-c6d9-456c-be53-10752902d0f7"
 
 </p>
 <p>
@@ -261,7 +261,7 @@ Next you will see that DC-1 and Cilent-1 was created
 <br />
 
 <p>
-![23](https://github.com/user-attachments/assets/1b20af55-bfb3-49d0-ac78-478690652d87)
+<img src="https://github.com/user-attachments/assets/1b20af55-bfb3-49d0-ac78-478690652d87"
 
 </p>
 <p>
@@ -270,7 +270,7 @@ Now click DC-1 and click networkng
 <br />
 
 <p>
-![24](https://github.com/user-attachments/assets/ea3c477c-5a68-4562-a31c-f37375ef353f)
+<img src="https://github.com/user-attachments/assets/ea3c477c-5a68-4562-a31c-f37375ef353f"
 
 </p>
 <p>
@@ -279,7 +279,7 @@ Next click on the Network Interface
 <br />
 
 <p>
-![25](https://github.com/user-attachments/assets/79f4352e-4b69-43ff-8aaa-e5e060f59ed5)
+<img src="https://github.com/user-attachments/assets/79f4352e-4b69-43ff-8aaa-e5e060f59ed5"
 
 </p>
 <p>
@@ -288,7 +288,7 @@ Next click on IP Configurations
 <br />
 
 <p>
-![26](https://github.com/user-attachments/assets/bdbfe284-4fde-4341-a493-cae11359fe89)
+<img src="https://github.com/user-attachments/assets/bdbfe284-4fde-4341-a493-cae11359fe89"
 
 </p>
 <p>
@@ -297,7 +297,7 @@ Now click ipconfig1
 <br />
 
 <p>
-![27](https://github.com/user-attachments/assets/9f1fde2b-8d79-4a73-9191-e11388b49202)
+<img src="https://github.com/user-attachments/assets/9f1fde2b-8d79-4a73-9191-e11388b49202"
 
 </p>
 <p>
@@ -306,7 +306,7 @@ We are editing the IP Configurations in the allocation section click Static inst
 <br />
 
 <p>
-![28](https://github.com/user-attachments/assets/870ab39d-a92c-4e7c-8bf1-4af137cab681)
+<img src="https://github.com/user-attachments/assets/870ab39d-a92c-4e7c-8bf1-4af137cab681"
 
 </p>
 <p>
@@ -315,7 +315,7 @@ Now we are going to log into Cilent-1 VM copy the public IP address
 <br />
 
 <p>
-![29](https://github.com/user-attachments/assets/b7e51f78-f454-4a71-8343-c356c77d658e)
+<img src="https://github.com/user-attachments/assets/b7e51f78-f454-4a71-8343-c356c77d658e"
 
 </p>
 <p>
@@ -324,7 +324,7 @@ Next type Remote Desktop Connection and click to open the app
 <br />
 
 <p>
-![30](https://github.com/user-attachments/assets/7ad80b77-0c9c-4cb3-a649-f8bd938a929c)
+<img src="https://github.com/user-attachments/assets/7ad80b77-0c9c-4cb3-a649-f8bd938a929c"
 
 </p>
 <p>
@@ -333,11 +333,11 @@ Next paste the IP of Cilent-1 in the computer section
 <br />
 
 <p>
-![31](https://github.com/user-attachments/assets/a8b0b90d-3af7-45c6-b990-4e617491ddcf)
+<img src="https://github.com/user-attachments/assets/a8b0b90d-3af7-45c6-b990-4e617491ddcf"
 
 </p>
 <p>
-![32](https://github.com/user-attachments/assets/5d74fe76-b7e0-4e46-a2fc-f7721859ec3e)
+<img src="https://github.com/user-attachments/assets/5d74fe76-b7e0-4e46-a2fc-f7721859ec3e"
 
 </p>
 <p>
@@ -346,7 +346,7 @@ Now tpye for the username type labuser and the password type the password you ma
 <br />
 
 <p>
-![33](https://github.com/user-attachments/assets/efc90686-125b-4791-8e32-96b9c5740462)
+<img src="https://github.com/user-attachments/assets/efc90686-125b-4791-8e32-96b9c5740462"
 
 </p>
 <p>
@@ -355,7 +355,7 @@ Next click yes to open the VM
 <br />
 
 <p>
-![34](https://github.com/user-attachments/assets/497dcd68-b644-4ac7-a5f3-656c2329ddfb)
+<img src="https://github.com/user-attachments/assets/497dcd68-b644-4ac7-a5f3-656c2329ddfb"
 
 </p>
 <p>
@@ -364,7 +364,7 @@ Now you should see the VM loading under the name labuser
 <br />
 
 <p>
-![35](https://github.com/user-attachments/assets/e95e1ae0-aa21-4861-89e7-cbc69b27df5b)
+<img src="https://github.com/user-attachments/assets/e95e1ae0-aa21-4861-89e7-cbc69b27df5b"
 
 </p>
 <p>
@@ -373,7 +373,7 @@ Next click no to the following image above
 <br />
 
 <p>
-![36](https://github.com/user-attachments/assets/2e454e60-1b7b-49c9-ac69-3a6453f736c5)
+<img src="https://github.com/user-attachments/assets/2e454e60-1b7b-49c9-ac69-3a6453f736c5"
 
 </p>
 <p>
@@ -382,7 +382,7 @@ Once networks load click yes
 <br />
 
 <p>
-![37](https://github.com/user-attachments/assets/0aed68f3-152a-4e6c-b584-f7defc74dc35)
+<img src="https://github.com/user-attachments/assets/0aed68f3-152a-4e6c-b584-f7defc74dc35"
 
 </p>
 <p>
@@ -391,7 +391,7 @@ Now open up command prompt
 <br />
 
 <p>
-![38](https://github.com/user-attachments/assets/1b80f50c-fa21-4855-b489-9a40b5cd2307)
+<img src="https://github.com/user-attachments/assets/1b80f50c-fa21-4855-b489-9a40b5cd2307"
 
 </p>
 <p>
@@ -400,7 +400,7 @@ Next go back to Azure and copy the Private IP of DC-1
 <br />
 
 <p>
-![39](https://github.com/user-attachments/assets/c62f9d72-1eff-4444-89f2-b38b430344ff)
+<img src="https://github.com/user-attachments/assets/c62f9d72-1eff-4444-89f2-b38b430344ff"
 
 </p>
 <p>
@@ -409,7 +409,7 @@ Go back to Cilent-1 VM and type ping -t the the private IP of DC-1. We are doing
 <br />
 
 <p>
-![40](https://github.com/user-attachments/assets/6827d94b-bd48-48d1-a90f-ae9294a9f6c3)
+<img src="https://github.com/user-attachments/assets/6827d94b-bd48-48d1-a90f-ae9294a9f6c3"
 
 </p>
 <p>
@@ -418,7 +418,7 @@ Then go to Azure and grab the Public IP of DC-1 VM then load Remote Desktop Conn
 <br />
 
 <p>
-![41](https://github.com/user-attachments/assets/39025d99-ef25-4a88-aa5f-fa17afb8e56e)
+<img src="https://github.com/user-attachments/assets/39025d99-ef25-4a88-aa5f-fa17afb8e56e"
 
 </p>
 <p>
@@ -427,7 +427,7 @@ Paste the IP of DC-1 in the computer section then click connect
 <br />
 
 <p>
-![42](https://github.com/user-attachments/assets/71c78910-7234-4887-a3d8-89e164a2c469)
+<img src="https://github.com/user-attachments/assets/71c78910-7234-4887-a3d8-89e164a2c469"
 
 </p>
 <p>
@@ -436,7 +436,7 @@ Next type the username labuser and the password you made for DC-1 VM then click 
 <br />
 
 <p>
-![43](https://github.com/user-attachments/assets/74acf06a-fc69-4522-ad9b-203b4611a305)
+<img src="https://github.com/user-attachments/assets/74acf06a-fc69-4522-ad9b-203b4611a305"
 
 </p>
 <p>
@@ -445,7 +445,7 @@ Next click yes to log into the VM
 <br />
 
 <p>
-![44](https://github.com/user-attachments/assets/0918d656-b66d-4722-b4ca-bf5801e6d279)
+<img src="https://github.com/user-attachments/assets/0918d656-b66d-4722-b4ca-bf5801e6d279"
 
 </p>
 <p>
@@ -454,7 +454,7 @@ Once the VM loads let Server Manager load as well. Next once networks load click
 <br />
 
 <p>
-![45](https://github.com/user-attachments/assets/21de8104-7f47-4ab4-8938-cce45adc4278)
+<img src="https://github.com/user-attachments/assets/21de8104-7f47-4ab4-8938-cce45adc4278"
 
 </p>
 <p>
@@ -463,7 +463,7 @@ Next type wf.msc in the search bar of DC-1
 <br />
 
 <p>
-![46](https://github.com/user-attachments/assets/aa4f6f39-80e4-430d-8fed-5b5210be737e)
+<img src="https://github.com/user-attachments/assets/aa4f6f39-80e4-430d-8fed-5b5210be737e"
 
 </p>
 <p>
@@ -472,7 +472,7 @@ Next click on Inbound Rules
 <br />
 
 <p>
-![47](https://github.com/user-attachments/assets/161ec2ba-b730-4419-be4e-aaafa0d9d08c)
+<img src="https://github.com/user-attachments/assets/161ec2ba-b730-4419-be4e-aaafa0d9d08c"
 
 </p>
 <p>
@@ -482,7 +482,7 @@ Next click the protocol, then look for ICMPv4 protcol
 
 
 <p>
-![48](https://github.com/user-attachments/assets/496a7df3-d69b-47d3-9851-b27aafac8a33)
+<img src="https://github.com/user-attachments/assets/496a7df3-d69b-47d3-9851-b27aafac8a33"
 
 </p>
 <p>
@@ -491,7 +491,7 @@ Next right click then enable rule for the following in the image above
 <br />
 
 <p>
-![49](https://github.com/user-attachments/assets/1752d953-1c81-4fa4-8727-fe914038027d)
+<img src="https://github.com/user-attachments/assets/1752d953-1c81-4fa4-8727-fe914038027d"
 
 </p>
 <p>
@@ -500,7 +500,7 @@ Go back to Cilent-1 VM and you wil see the constant pinging click Ctrl + C then 
 <br />
 
 <p>
-![50](https://github.com/user-attachments/assets/9b8b7c60-4384-49d9-9dfc-ba48e18c704f)
+<img src="https://github.com/user-attachments/assets/9b8b7c60-4384-49d9-9dfc-ba48e18c704f"
 
 </p>
 <p>
@@ -509,7 +509,7 @@ Next go to DC-1 and click add roles and features
 <br />
 
 <p>
-![51](https://github.com/user-attachments/assets/2b494450-edcb-45f0-9848-0146e28e7c66)
+<img src="https://github.com/user-attachments/assets/2b494450-edcb-45f0-9848-0146e28e7c66"
 
 </p>
 <p>
@@ -518,7 +518,7 @@ Click next
 <br />
 
 <p>
-![52](https://github.com/user-attachments/assets/43f59cad-47d6-46f7-a592-a8dc1d919bb7)
+<img src="https://github.com/user-attachments/assets/43f59cad-47d6-46f7-a592-a8dc1d919bb7"
 
 </p>
 <p>
@@ -527,7 +527,7 @@ Click next
 <br />
 
 <p>
-![53](https://github.com/user-attachments/assets/bafce169-a756-4b04-be0b-eeec5eb7a4c4)
+<img src="https://github.com/user-attachments/assets/bafce169-a756-4b04-be0b-eeec5eb7a4c4"
 
 </p>
 <p>
@@ -536,7 +536,7 @@ Click next
 <br />
 
 <p>
-![54](https://github.com/user-attachments/assets/62a77d04-7702-4767-95d4-11a4a946c835)
+<img src="https://github.com/user-attachments/assets/62a77d04-7702-4767-95d4-11a4a946c835"
 
 </p>
 <p>
@@ -545,7 +545,7 @@ Click the box for Active Directory Domain Services
 <br />
 
 <p>
-![55](https://github.com/user-attachments/assets/7d58b9c2-5776-4b75-83e5-16701846e9ad)
+<img src="https://github.com/user-attachments/assets/7d58b9c2-5776-4b75-83e5-16701846e9ad"
 
 </p>
 <p>
@@ -554,7 +554,7 @@ Click the add features
 <br />
 
 <p>
-![56](https://github.com/user-attachments/assets/f5e2a322-6fdb-44eb-b5f6-33cd6ddef9b9)
+<img src="https://github.com/user-attachments/assets/f5e2a322-6fdb-44eb-b5f6-33cd6ddef9b9"
 
 </p>
 <p>
@@ -563,7 +563,7 @@ Click next
 <br />
 
 <p>
-![57](https://github.com/user-attachments/assets/1d3a2e10-0ac6-4ca8-af5f-08cf3bbc53fe)
+<img src="https://github.com/user-attachments/assets/1d3a2e10-0ac6-4ca8-af5f-08cf3bbc53fe"
 
 </p>
 <p>
@@ -572,7 +572,7 @@ Click next
 <br />
 
 <p>
-![58](https://github.com/user-attachments/assets/6953cfc5-3686-4cd8-9a5a-aa7a032aa940)
+<img src="https://github.com/user-attachments/assets/6953cfc5-3686-4cd8-9a5a-aa7a032aa940"
 
 </p>
 <p>
@@ -581,7 +581,7 @@ Click next
 <br />
 
 <p>
-![59](https://github.com/user-attachments/assets/fc52ca93-7a2c-4e1f-b95e-608a6b8de4ab)
+<img src="https://github.com/user-attachments/assets/fc52ca93-7a2c-4e1f-b95e-608a6b8de4ab"
 
 </p>
 <p>
@@ -590,7 +590,7 @@ Click Install
 <br />
 
 <p>
-![60](https://github.com/user-attachments/assets/3605f480-58c7-4337-9cc9-ccf02e81e4a5)
+<img src="https://github.com/user-attachments/assets/3605f480-58c7-4337-9cc9-ccf02e81e4a5"
 
 </p>
 <p>
@@ -599,7 +599,7 @@ Next let the installation process start
 <br />
 
 <p>
-![61](https://github.com/user-attachments/assets/26d0f5e1-e4ea-4bca-a831-b44f9d48ff6c)
+<img src="https://github.com/user-attachments/assets/26d0f5e1-e4ea-4bca-a831-b44f9d48ff6c"
 
 </p>
 <p>
@@ -608,7 +608,7 @@ Once the process finishes click close
 <br />
 
 <p>
-![62](https://github.com/user-attachments/assets/492d3458-7514-4bbc-ac54-5b77e8145053)
+<img src="https://github.com/user-attachments/assets/492d3458-7514-4bbc-ac54-5b77e8145053"
 
 </p>
 <p>
@@ -617,7 +617,7 @@ Next click the caution symbol near manage on the top right
 <br />
 
 <p>
-![63](https://github.com/user-attachments/assets/35dfef81-d781-432b-92bf-890ac9214b7b)
+<img src="https://github.com/user-attachments/assets/35dfef81-d781-432b-92bf-890ac9214b7b"
 
 </p>
 <p>
@@ -626,7 +626,7 @@ Next click Promote this server to a domain controller
 <br />
 
 <p>
-![64](https://github.com/user-attachments/assets/705a6763-2c46-4b5e-a77e-d3256c6d32d6)
+<img src="https://github.com/user-attachments/assets/705a6763-2c46-4b5e-a77e-d3256c6d32d6"
 
 </p>
 <p>
@@ -635,7 +635,7 @@ Click add a new forest then type mydomain.com then click next. {NOTE} you can ty
 <br />
 
 <p>
-![65](https://github.com/user-attachments/assets/720f050e-ed7a-4878-b663-5396e483f2af)
+<img src="https://github.com/user-attachments/assets/720f050e-ed7a-4878-b663-5396e483f2af"
 
 </p>
 <p>
@@ -644,7 +644,7 @@ Next type the password in for this my password will be Password1 then click next
 <br />
 
 <p>
-![66](https://github.com/user-attachments/assets/6b32e14e-038d-4439-9fba-a3d8a3ba90a7)
+<img src="https://github.com/user-attachments/assets/6b32e14e-038d-4439-9fba-a3d8a3ba90a7"
 
 </p>
 <p>
@@ -653,7 +653,7 @@ Next click next
 <br />
 
 <p>
-![67](https://github.com/user-attachments/assets/90cb493d-596d-4d4a-8b6b-684a07fbcb2a)
+<img src="https://github.com/user-attachments/assets/90cb493d-596d-4d4a-8b6b-684a07fbcb2a"
 
 </p>
 <p>
@@ -662,7 +662,7 @@ Next click next
 <br />
 
 <p>
-![68](https://github.com/user-attachments/assets/04ca113d-66e4-422a-85f2-0fac305d339f)
+<img src="https://github.com/user-attachments/assets/04ca113d-66e4-422a-85f2-0fac305d339f"
 
 </p>
 <p>
@@ -671,7 +671,7 @@ Next click next
 <br />
 
 <p>
-![69](https://github.com/user-attachments/assets/3a1dc0d6-865d-4c39-8ef0-76b38f2a3851)
+<img src="https://github.com/user-attachments/assets/3a1dc0d6-865d-4c39-8ef0-76b38f2a3851"
 
 </p>
 <p>
@@ -680,7 +680,7 @@ Next click next
 <br />
 
 <p>
-![70](https://github.com/user-attachments/assets/0f652f42-e881-42b8-aece-cd5a060ec567)
+<img src="https://github.com/user-attachments/assets/0f652f42-e881-42b8-aece-cd5a060ec567"
 
 </p>
 <p>
@@ -689,7 +689,7 @@ Next click install to finish creating the domain controller
 <br />
 
 <p>
-![71](https://github.com/user-attachments/assets/de1b2e51-415c-4afb-84ce-81878a5784c2)
+<img src="https://github.com/user-attachments/assets/de1b2e51-415c-4afb-84ce-81878a5784c2"
 
 </p>
 <p>
@@ -698,7 +698,7 @@ Then let the installation process finish
 <br />
 
 <p>
-![72](https://github.com/user-attachments/assets/e7ddfa11-bb9f-4bfb-9f57-1d8fe280d366)
+<img src="https://github.com/user-attachments/assets/e7ddfa11-bb9f-4bfb-9f57-1d8fe280d366"
 
 </p>
 <p>
@@ -707,7 +707,7 @@ You might see the image above for Reconnecting dont click cancel let the VM band
 <br />
 
 <p>
-![73](https://github.com/user-attachments/assets/00a33d64-30b3-4e2a-ab83-7a5cb51471c5)
+<img src="https://github.com/user-attachments/assets/00a33d64-30b3-4e2a-ab83-7a5cb51471c5"
 
 </p>
 <p>
@@ -716,7 +716,7 @@ Go back to Azure and click DC-1 copy the public IP
 <br />
 
 <p>
-![74](https://github.com/user-attachments/assets/20e7df53-b643-40eb-9dac-fac8853fbbd7)
+<img src="https://github.com/user-attachments/assets/20e7df53-b643-40eb-9dac-fac8853fbbd7"
 
 </p>
 <p>
@@ -725,7 +725,7 @@ Next type Remote Desktop Conenction and open the app
 <br />
 
 <p>
-![75](https://github.com/user-attachments/assets/2fab10e5-600c-4009-88ec-29b24eb803f3)
+<img src="https://github.com/user-attachments/assets/2fab10e5-600c-4009-88ec-29b24eb803f3"
 
 </p>
 <p>
@@ -734,7 +734,7 @@ Now since we made DC-1 under another name click more choices then click use a di
 <br />
 
 <p>
-![76](https://github.com/user-attachments/assets/0f58ac94-383a-43ce-81f6-793b953cae78)
+<img src="https://github.com/user-attachments/assets/0f58ac94-383a-43ce-81f6-793b953cae78"
 
 </p>
 <p>
@@ -743,7 +743,7 @@ Next tpye in mydomain.com\labuser for the username and the password is Password1
 <br />
 
 <p>
-![77](https://github.com/user-attachments/assets/bc043c09-1fea-4d5e-8ab7-f69dee436e15)
+<img src="https://github.com/user-attachments/assets/bc043c09-1fea-4d5e-8ab7-f69dee436e15"
 
 </p>
 <p>
@@ -752,7 +752,7 @@ Next click yes to log into the VM {NOTE} if it doesnt work the first time try ag
 <br />
 
 <p>
-![78](https://github.com/user-attachments/assets/f3e34c06-16bc-430b-95ad-6c58752bc133)
+<img src="https://github.com/user-attachments/assets/f3e34c06-16bc-430b-95ad-6c58752bc133"
 
 </p>
 <p>
@@ -761,7 +761,7 @@ Now once you are in the DC-1 VM let Server Manager load on the screen
 <br />
 
 <p>
-![79](https://github.com/user-attachments/assets/cc9d66fc-4d53-4f4e-b7d1-389d7d9238a2)
+<img src="https://github.com/user-attachments/assets/cc9d66fc-4d53-4f4e-b7d1-389d7d9238a2"
 
 </p>
 <p>
@@ -770,7 +770,7 @@ Next click Tools on the top right then go to Active Directory Users and Computer
 <br />
 
 <p>
-![80](https://github.com/user-attachments/assets/6c5d86c0-a599-45f4-a4ac-8f7a7c4ea43b)
+<img src="https://github.com/user-attachments/assets/6c5d86c0-a599-45f4-a4ac-8f7a7c4ea43b"
 
 </p>
 <p>
@@ -779,7 +779,7 @@ Next click on mydomain.com folder on the left side
 <br />
 
 <p>
-![81](https://github.com/user-attachments/assets/36ce3c56-c7a0-4a0a-b9e7-ad0b65de843e)
+<img src="https://github.com/user-attachments/assets/36ce3c56-c7a0-4a0a-b9e7-ad0b65de843e"
 
 </p>
 <p>
@@ -789,7 +789,7 @@ Next right click anywhere and go to new then to organizational unit
 
 
 <p>
-![82](https://github.com/user-attachments/assets/2695b3a5-a80e-462b-b17b-d4b7461b93a0)
+<img src="https://github.com/user-attachments/assets/2695b3a5-a80e-462b-b17b-d4b7461b93a0"
 
 </p>
 <p>
@@ -798,7 +798,7 @@ Next type _EMPLOYEES then click ok
 <br />
 
 <p>
-![83](https://github.com/user-attachments/assets/77544dea-83a6-4dec-8cb8-384ceaad438e)
+<img src="https://github.com/user-attachments/assets/77544dea-83a6-4dec-8cb8-384ceaad438e"
 
 </p>
 <p>
@@ -807,7 +807,7 @@ Now go back to mydomain.com and right click anywhere again, go to new then to or
 <br />
 
 <p>
-![84](https://github.com/user-attachments/assets/46f56088-dd29-499f-8a21-d516e1f86ef0)
+<img src="https://github.com/user-attachments/assets/46f56088-dd29-499f-8a21-d516e1f86ef0"
 
 </p>
 <p>
@@ -816,7 +816,7 @@ Next type ADMINS then click ok
 <br />
 
 <p>
-![85](https://github.com/user-attachments/assets/64b72151-78f9-4c75-a408-99e302d2f733)
+<img src="https://github.com/user-attachments/assets/64b72151-78f9-4c75-a408-99e302d2f733"
 
 </p>
 <p>
@@ -825,7 +825,7 @@ In ADMINS right click then go to new then to user
 <br />
 
 <p>
-![86](https://github.com/user-attachments/assets/7181426c-341e-4b49-b121-2a05d686fa02)
+<img src="https://github.com/user-attachments/assets/7181426c-341e-4b49-b121-2a05d686fa02"
 
 </p>
 <p>
@@ -834,7 +834,7 @@ For the first name type jane and the intials can be doe or the last name can be 
 <br />
 
 <p>
-![87](https://github.com/user-attachments/assets/d28a9d42-fbe3-465a-8af4-4c91d37af879)
+<img src="https://github.com/user-attachments/assets/d28a9d42-fbe3-465a-8af4-4c91d37af879"
 
 </p>
 <p>
@@ -843,7 +843,7 @@ Next for the password type Password1 then uncheck user must change password at n
 <br />
 
 <p>
-![88](https://github.com/user-attachments/assets/f05cbdbb-407a-410e-b4a1-d5715b62a733)
+<img src="https://github.com/user-attachments/assets/f05cbdbb-407a-410e-b4a1-d5715b62a733"
 
 </p>
 <p>
@@ -852,7 +852,7 @@ Next check the box for Password never expires then click next
 <br />
 
 <p>
-![89](https://github.com/user-attachments/assets/979096e0-ab04-46d3-91cf-ceb26d257a1d)
+<img src="https://github.com/user-attachments/assets/979096e0-ab04-46d3-91cf-ceb26d257a1d"
 
 </p>
 <p>
@@ -861,7 +861,7 @@ Then finish to create the user
 <br />
 
 <p>
-![90](https://github.com/user-attachments/assets/7ecf6f2d-ce2c-4e0f-bba5-59ac7aa9a138)
+<img src="https://github.com/user-attachments/assets/7ecf6f2d-ce2c-4e0f-bba5-59ac7aa9a138"
 
 </p>
 <p>
@@ -870,7 +870,7 @@ Now you should see jane doe account in the ADMINS folder if not right click then
 <br />
 
 <p>
-![91](https://github.com/user-attachments/assets/47bd1fb0-9bd6-40af-9b5b-e224064fab3f)
+<img src="https://github.com/user-attachments/assets/47bd1fb0-9bd6-40af-9b5b-e224064fab3f"
 
 </p>
 <p>
@@ -879,7 +879,7 @@ Next right click the account and go to properties
 <br />
 
 <p>
-![92](https://github.com/user-attachments/assets/7062b64c-01a7-4bd1-b56a-806c8a6ac416)
+<img src="https://github.com/user-attachments/assets/7062b64c-01a7-4bd1-b56a-806c8a6ac416"
 
 </p>
 <p>
@@ -888,7 +888,7 @@ Next the member of tab then click add
 <br />
 
 <p>
-![93](https://github.com/user-attachments/assets/8f4b945e-0150-4631-8c35-316f83777475)
+<img src="https://github.com/user-attachments/assets/8f4b945e-0150-4631-8c35-316f83777475"
 
 </p>
 <p>
@@ -897,7 +897,7 @@ Next in the enter section type domain then click check names
 <br />
 
 <p>
-![94](https://github.com/user-attachments/assets/97d4d1f3-3e0b-40fa-88fc-94b8c25d6db0)
+<img src="https://github.com/user-attachments/assets/97d4d1f3-3e0b-40fa-88fc-94b8c25d6db0"
 
 </p>
 <p>
@@ -906,7 +906,7 @@ Next double click on Domain Admins then click ok
 <br />
 
 <p>
-![95](https://github.com/user-attachments/assets/8c0ade52-478a-4eef-b9a4-0bc7f6f860a1)
+<img src="https://github.com/user-attachments/assets/8c0ade52-478a-4eef-b9a4-0bc7f6f860a1"
 
 </p>
 <p>
@@ -915,7 +915,7 @@ Then click ok
 <br />
 
 <p>
-![96](https://github.com/user-attachments/assets/6bf37b31-ca5b-4126-8835-b6ddec0e3627)
+<img src="https://github.com/user-attachments/assets/6bf37b31-ca5b-4126-8835-b6ddec0e3627"
 
 </p>
 <p>
@@ -924,7 +924,7 @@ Then click apply to finish
 <br />
 
 <p>
-![97](https://github.com/user-attachments/assets/f309ef99-12f4-4473-ab76-9b2dae08a41a)
+<img src="https://github.com/user-attachments/assets/f309ef99-12f4-4473-ab76-9b2dae08a41a"
 
 </p>
 <p>
@@ -933,7 +933,7 @@ Next open command prompt then type whoami you will see we are still under labuse
 <br />
 
 <p>
-![98](https://github.com/user-attachments/assets/01d0f8e0-cc86-48b7-a1e8-3cdf7b43acbc)
+<img src="https://github.com/user-attachments/assets/01d0f8e0-cc86-48b7-a1e8-3cdf7b43acbc"
 
 </p>
 <p>
