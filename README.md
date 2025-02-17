@@ -61,7 +61,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-![1](https://github.com/user-attachments/assets/6d3d8fa8-3ca5-44de-b0dd-91398af2d701)
+![1](https://github.com/user-attachments/assets/6d3d8fa8-3ca5-44de-b0dd-91398af2d701"
 
 </p>
 <p>
@@ -70,7 +70,7 @@ First go to Microsoft Azure and type Resource Group
 <br />
 
 <p>
-![2](https://github.com/user-attachments/assets/86671797-6562-411a-a6b5-3ef15cf841c1)
+![2](https://github.com/user-attachments/assets/86671797-6562-411a-a6b5-3ef15cf841c1"
 
 </p>
 <p>
@@ -79,7 +79,7 @@ Next click create to create the Resource Group
 <br />
 
 <p>
-![3](https://github.com/user-attachments/assets/2f645a83-b705-439f-8c76-60e4779c3596)
+![3](https://github.com/user-attachments/assets/2f645a83-b705-439f-8c76-60e4779c3596"
 
 </p>
 <p>
@@ -89,7 +89,7 @@ Now for the name type AD-LAb and the region under US West US 3 then go to the re
 
 
 <p>
-![4](https://github.com/user-attachments/assets/ed0e106f-4eb8-4bd7-95ab-a20477f5cf33)
+![4](https://github.com/user-attachments/assets/ed0e106f-4eb8-4bd7-95ab-a20477f5cf33"
 
 </p>
 <p>
@@ -99,7 +99,7 @@ Next the validation pass through
 
 
 <p>
-![5](https://github.com/user-attachments/assets/645ce803-2037-430a-b1a2-7ee3aceec748)
+![5](https://github.com/user-attachments/assets/645ce803-2037-430a-b1a2-7ee3aceec748"
 
 </p>
 <p>
@@ -108,7 +108,7 @@ Now once the process is done you will see the Resource Group was created
 <br />
 
 <p>
-![6](https://github.com/user-attachments/assets/dc3f53b4-e7bd-449b-8132-e17cb832a5c5)
+![6](https://github.com/user-attachments/assets/dc3f53b4-e7bd-449b-8132-e17cb832a5c5"
 
 </p>
 <p>
@@ -117,7 +117,7 @@ Type Virtual Machine in the search bar
 <br />
 
 <p>
-![7](https://github.com/user-attachments/assets/1c137fb1-2bbc-40cc-a627-2a4c510dd91c)
+![7](https://github.com/user-attachments/assets/1c137fb1-2bbc-40cc-a627-2a4c510dd91c"
 
 </p>
 <p>
@@ -126,7 +126,7 @@ Next click Azure Virtual Machine to create the VM
 <br />
 
 <p>
-![8](https://github.com/user-attachments/assets/f5aa9736-1070-4a17-ba8b-67f0c1db7a11)
+![8](https://github.com/user-attachments/assets/f5aa9736-1070-4a17-ba8b-67f0c1db7a11"
 
 </p>
 <p>
@@ -135,7 +135,7 @@ Now for the resource group click AD-LAb, and the virtual machine name type DC-1.
 <br />
 
 <p>
-![9](https://github.com/user-attachments/assets/1d9e5d0e-0664-4632-9c2a-b576a428f88d)
+![9](https://github.com/user-attachments/assets/1d9e5d0e-0664-4632-9c2a-b576a428f88d
 
 </p>
 <p>
@@ -144,7 +144,7 @@ Next the size needs to be under Standard E2 and teh username under labuser and t
 <br />
 
 <p>
-![10](https://github.com/user-attachments/assets/224feca9-3084-47cb-b198-7a4b66ca19d8)
+![10](https://github.com/user-attachments/assets/224feca9-3084-47cb-b198-7a4b66ca19d8"
 
 </p>
 <p>
@@ -153,7 +153,7 @@ Next click the box in the Licensing section and then click th econfirm box. Then
 <br />
 
 <p>
-![11](https://github.com/user-attachments/assets/e70228be-4db8-42cd-afbb-d804b1c42908)
+![11](https://github.com/user-attachments/assets/e70228be-4db8-42cd-afbb-d804b1c42908"
 
 </p>
 <p>
@@ -162,7 +162,7 @@ Now go to the networking tab and make sure the virtual network, subnet, and the 
 <br />
 
 <p>
-![12](https://github.com/user-attachments/assets/ffce0f42-378a-4fc3-9da9-f7df46003b37)
+![12](https://github.com/user-attachments/assets/ffce0f42-378a-4fc3-9da9-f7df46003b37"
 
 </p>
 <p>
@@ -171,7 +171,7 @@ Now go to the review and create section
 <br />
 
 <p>
-![13](https://github.com/user-attachments/assets/b3451c58-138f-4a82-88df-194f048a9a79)
+![13](https://github.com/user-attachments/assets/b3451c58-138f-4a82-88df-194f048a9a79"
 
 </p>
 <p>
@@ -180,7 +180,7 @@ Next let the deployment progess load
 <br />
 
 <p>
-![14](https://github.com/user-attachments/assets/0bfb3098-09fc-4b7d-ac7f-7a23fe6e110d)
+![14](https://github.com/user-attachments/assets/0bfb3098-09fc-4b7d-ac7f-7a23fe6e110d"
 
 </p>
 <p>
@@ -189,7 +189,7 @@ Now the process will be complete when there is a green check
 <br />
 
 <p>
-![15](https://github.com/user-attachments/assets/03f382d0-fdf6-49fe-857d-93e653b7e582)
+![15](https://github.com/user-attachments/assets/03f382d0-fdf6-49fe-857d-93e653b7e582"
 
 </p>
 <p>
@@ -198,7 +198,7 @@ Next type virtual machine and you will see DC-1 VM was created
 <br />
 
 <p>
-![16](https://github.com/user-attachments/assets/845878dd-c00c-4d1a-a70c-b7933c32530f)
+![16](https://github.com/user-attachments/assets/845878dd-c00c-4d1a-a70c-b7933c32530f"
 
 </p>
 <p>
@@ -207,7 +207,7 @@ Next click create and then go to Azure Virtual Machine
 <br />
 
 <p>
-![17](https://github.com/user-attachments/assets/f46ce10c-8abe-4791-aae5-fac72af1f5ef)
+![17](https://github.com/user-attachments/assets/f46ce10c-8abe-4791-aae5-fac72af1f5ef"
 
 </p>
 <p>
@@ -216,7 +216,7 @@ Next in the subscriiption section make sure the same subscription that you used 
 <br />
 
 <p>
-![18](https://github.com/user-attachments/assets/854ee9ea-0cc9-41c9-8abc-553cb256bca2)
+![18](https://github.com/user-attachments/assets/854ee9ea-0cc9-41c9-8abc-553cb256bca2"
 
 </p>
 <p>
@@ -225,7 +225,7 @@ Now for the Image click Windows 10 pro version and the size click Standard E2
 <br />
 
 <p>
-![19](https://github.com/user-attachments/assets/2fa62e05-18a7-4380-896a-3796e2e65fb7)
+![19](https://github.com/user-attachments/assets/2fa62e05-18a7-4380-896a-3796e2e65fb7"
 
 </p>
 <p>
@@ -234,7 +234,7 @@ Next for the username type labuser and the password the same as DC-1 VM. Then cl
 <br />
 
 <p>
-![20](https://github.com/user-attachments/assets/8191ee53-05e4-4073-8a44-500fa9035fb3)
+![20](https://github.com/user-attachments/assets/8191ee53-05e4-4073-8a44-500fa9035fb3"
 
 </p>
 <p>
@@ -243,7 +243,7 @@ Now the deployment will be done when a green check appears next to the deploymen
 <br />
 
 <p>
-![21](https://github.com/user-attachments/assets/b1091537-8035-4e84-9acd-dc2a9fa32991)
+![21](https://github.com/user-attachments/assets/b1091537-8035-4e84-9acd-dc2a9fa32991"
 
 </p>
 <p>
@@ -252,7 +252,7 @@ Next type virtual machines in the search bar
 <br />
 
 <p>
-![22](https://github.com/user-attachments/assets/3c593d78-c6d9-456c-be53-10752902d0f7)
+![22](https://github.com/user-attachments/assets/3c593d78-c6d9-456c-be53-10752902d0f7"
 
 </p>
 <p>
