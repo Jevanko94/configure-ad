@@ -942,6 +942,7 @@ Go back to Azure and click DC-1 and copy the Public IP
 <br />
 
 <p>
+<img src="https://github.com/user-attachments/assets/5ee5f2ac-c26d-475d-8be9-80df1c3e45f9"
 
 </p>
 <p>
@@ -1553,7 +1554,8 @@ Next paste the Public IP of Cilent-1 then click connect
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/143027686/66242ef0-4145-454b-a85e-cc5a253ee98c"/>
+<img src="https://github.com/user-attachments/assets/5f08a8b4-c551-43c4-8b83-54c1ec735651"
+
 </p>
 <p>
 Click more choices then click use a different account 
@@ -1561,7 +1563,8 @@ Click more choices then click use a different account
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/143027686/164e4d51-a623-48ee-8983-8a480d4e0829"/>
+<img src="https://github.com/user-attachments/assets/1b74cbbc-4227-45e8-b062-66def55de7f9"
+
 </p>
 <p>
 Now type mydomain.com\ then the username, but for the password type the password incorrectly ten times to lock you out of your account refer to the image above 
@@ -1569,10 +1572,12 @@ Now type mydomain.com\ then the username, but for the password type the password
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/143027686/63f27065-9e25-42fb-969b-57824e9cff63"/>
+<img src="https://github.com/user-attachments/assets/3965265f-04a3-41f6-ba4a-2b013ee3502f"
+
 </p>
 <p>
-<img src="https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/143027686/686606a1-4259-41a9-a12d-843ef254a1d1"/>
+<img src="https://github.com/user-attachments/assets/1f0962b5-5e0c-4ca5-b440-3ef31e35b06f"
+
 </p>
 <p>
 Next go back to DC-1 VM and go to the account tab of the user you picked. Click th box Unlock account then click ok 
@@ -1580,17 +1585,11 @@ Next go back to DC-1 VM and go to the account tab of the user you picked. Click 
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/143027686/8a06ac57-d4bc-4478-8ce2-ee345b4e45e1"/>
+<img src="https://github.com/user-attachments/assets/8be8d698-8ae2-4875-8291-45b45f88cce8"
+
 </p>
 <p>
 You can also right click the user you picked and click reset password, or even disable the account 
 </p>
 <br />
 
-<p>
-<img src="https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/143027686/39a34abc-ab16-4bb4-a6d7-f668f6662af6"/>
-</p>
-<p>
-Now to see Lab 6 https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME and Lab 7 https://github.com/Jacobvillagomez1/Network-File-Shares-and-Permissions 
-</p>
-<br />
